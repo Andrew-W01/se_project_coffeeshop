@@ -15,6 +15,15 @@
   margin: 0;
   gap: 20px;
   list-style-type: none;
+  font-family: "Inter";
+
+  font-style: normal;
+
+  font-weight: 500;
+
+  font-size: 16px;
+
+  line-height: 20px;
 }
 .nav__link {
   color: #000;
@@ -22,4 +31,8 @@
 }
 .nav__link:hover {
   color: #2f80ed;
+  transition: color 0.2s, 0.5s ease-in-out;
+}
+.nav__link:not(:hover) {
+  transition: 0.5s, 0.2s;
 }
