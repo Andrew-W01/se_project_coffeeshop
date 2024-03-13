@@ -13,7 +13,7 @@
 
 .header__span-accent {
   display: flex;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", Georgia;
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
@@ -33,7 +33,7 @@
 }
 .header__description {
   max-width: 683px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", Georgia;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -54,15 +54,10 @@
   justify-content: space-between;
   margin-top: auto;
   font-family: "Inter", Arial, sans-serif;
-
   font-style: normal;
-
   font-weight: 500;
-
   font-size: 16px;
-
   line-height: 20px;
-
   color: #838383;
 }
 .header__paragraph {
