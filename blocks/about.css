@@ -39,7 +39,7 @@
   max-width: 660px;
 }
 .about__paragraph {
-  font-family: "Noto Serif", Georgia;
+  font-family: "Noto Serif", Georgia, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

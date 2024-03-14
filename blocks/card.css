@@ -19,7 +19,7 @@
 .card__list-item {
   margin-bottom: 16px;
   display: flex;
-  font-family: "Noto Serif", Georgia;
+  font-family: "Noto Serif", Georgia, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;

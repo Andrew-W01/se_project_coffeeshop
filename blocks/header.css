@@ -13,7 +13,7 @@
 
 .header__span-accent {
   display: flex;
-  font-family: "Noto Serif", Georgia;
+  font-family: "Noto Serif", Georgia, serif;
   font-style: italic;
   font-weight: normal;
   font-size: 60px;
@@ -33,7 +33,7 @@
 }
 .header__description {
   max-width: 683px;
-  font-family: "Noto Serif", Georgia;
+  font-family: "Noto Serif", Georgia, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
